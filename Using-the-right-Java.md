@@ -154,7 +154,7 @@ Scroll down until you see the single entry in the table!
 ### **Minecraft 26 and newer (Java 25)**
 
 Open terminal and type the following based on your distro
-* Ubuntu/Debian derivatives `sudo apt-get temurin-25-jdk`
+* Ubuntu/Debian derivatives `sudo apt-get install temurin-25-jdk`
 * Arch `sudo pacman -S jdk25-openjdk`
 * Fedora `sudo dnf install temurin-25-jdk`
 * OpenSUSE `sudo zypper install temurin-25-jdk`
@@ -175,7 +175,7 @@ Scroll down until you see the single entry in the table!
 ### **Minecraft 1.20.5 until 1.21.11 (Java 21)**
 
 Open terminal and type the following based on your distro
-* Ubuntu/Debian derivatives `sudo apt-get temurin-21-jdk`
+* Ubuntu/Debian derivatives `sudo apt-get install temurin-21-jdk`
 * Arch `sudo pacman -S jdk21-openjdk`
 * Fedora `sudo dnf install temurin-21-jdk`
 * OpenSUSE `sudo zypper install temurin-21-jdk`
